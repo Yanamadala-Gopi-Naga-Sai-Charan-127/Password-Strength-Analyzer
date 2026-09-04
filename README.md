@@ -4,7 +4,8 @@ A browser‑based tool that evaluates the strength of user‑entered passwords i
 It checks **length**, **complexity** (case, numbers, symbols), and **uniqueness** (against common passwords and your personal history).  
 It also suggests stronger alternatives and can generate cryptographically strong passwords.
 
-![Screenshot](screenshot.png)  
+![Screenshot](<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/bd95725e-a8d5-4d88-8434-ce4fae3459f3" />
+)  
 *(Add a screenshot of your tool here for a better preview)*
 
 ---
